@@ -190,7 +190,7 @@ a.bruh:hover {
   
   .bg-image {
     /* The image used */
-    background-image: url("https://cdn.discordapp.com/attachments/791297524707098624/809907932472672276/hunkspunk.jpg");
+    background-image: url("https://sell.g2.com/hubfs/FAQ.png");
     
     /* Add the blur effect */
     filter: blur(8px);
@@ -275,7 +275,7 @@ a.bruh:hover {
 }
 
 
-li.indent {
+.indent {
   text-indent: 20px
 }
 
@@ -285,3 +285,8 @@ div.sticky {
   position: sticky;
   top: 0;
 }
+
+.faqbackground {
+  background-color: salmon
+}
+
