@@ -63,7 +63,9 @@ a.bruh:hover {
     visibility: visible;
   }
   
-  
+  .faqheader {
+    font-size: 80px;
+  }
   }
   
   
@@ -139,7 +141,9 @@ a.bruh:hover {
     display:none;
     visibility: hidden;
   }
-  
+  .faqheader {
+    font-size: 40px;
+  }
   }
   
   
@@ -280,13 +284,8 @@ a.bruh:hover {
 }
 
 
-div.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-}
-
-.faqbackground {
-  background-color: salmon
+#grad {
+  background-image: linear-gradient(to bottom right, blue, lightblue);
+  border-radius: 15px
 }
 
