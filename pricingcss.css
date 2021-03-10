@@ -15,7 +15,6 @@
     background: -moz-linear-gradient(top, #60a9ff 0%, #4394f4 100%);
     background: -webkit-linear-gradient(top, #60a9ff 0%,#4394f4 100%);
     background: linear-gradient(to bottom, #60a9ff 0%,#4394f4 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#60a9ff', endColorstr='#4394f4',GradientType=0 );
     height: 350px;
     left: 0;
     position: absolute;
@@ -378,4 +377,14 @@
   }
   .nav-link {
     font-family: Neoteric;
+  }
+
+
+  div.backgroundpricing {
+    background-image: url(destiny-4k-2560×1440.jpg);
+    background-size: cover
+  }
+
+  body {
+    background-image: linear-gradient(180deg, rgba(255,0,0,0), rgba(255,0,0,1));
   }
