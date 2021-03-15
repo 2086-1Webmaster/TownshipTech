@@ -1,6 +1,3 @@
-a.bruh:hover {
-    border: 5px solid blue
-  }
 
   
   .center {
@@ -59,6 +56,13 @@ a.bruh:hover {
   .bruh {
     font-size:70px
   }
+  .nav2:hover {
+    font-size: 85px;
+}
+
+.nav2 {
+    transition: all 0.5s;
+}
   }
   
   
@@ -115,6 +119,13 @@ a.bruh:hover {
   .bruh {
     font-size:15px
   }
+  .nav2:hover {
+    font-size: ""
+}
+
+.nav2 {
+    transition: ""
+}
   }
   
   
@@ -162,3 +173,5 @@ a.bruh:hover {
   .nav-link {
     font-family: Neoteric;
   }
+  
+
