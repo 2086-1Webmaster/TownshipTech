@@ -63,6 +63,10 @@
 .nav2 {
     transition: all 0.5s;
 }
+
+.maincap {
+  font-size: 35px
+}
   }
   
   
@@ -124,10 +128,12 @@
 }
 
 .nav2 {
-    transition: ""
+    transition: "";
     font-size: 20px
 }
-
+.maincap {
+  font-size:20px
+}
 
   }
   
