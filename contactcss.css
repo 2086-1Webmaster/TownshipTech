@@ -38,15 +38,7 @@ a.bruh:hover {
   float:right;
 }
 
-.mobileinvis2 {
-  visibility: hidden;
-  display: none;
-}
 
-.mobileinvis1 {
-  visibility: visible;
-
-}
 
 .logo {
   width:350px;
@@ -64,6 +56,9 @@ a.bruh:hover {
 .bg-image {
   visibility: visible;
 }
+.paddingm {
+  padding-bottom:250px;
+}
 
 
 }
@@ -74,6 +69,9 @@ a.bruh:hover {
     font-size: 10px;
     margin-top: -60px;
     margin-left:27px
+  }
+  .paddingm {
+    padding-bottom:250px;
   }
 .navheader {
   font-size:35px;
@@ -122,10 +120,7 @@ display: none;
 .bruh {
   font-size:10px
 }
-.bg-image {
-  visibility: hidden;
-  display: none;
-}
+
 
 
 .bg-text {
@@ -202,14 +197,14 @@ div.testdiv {
 
 .bg-image {
   /* The image used */
-  background-image: url("  https://cdn.discordapp.com/attachments/709943049433907255/825872616166129745/unknown.png");
+  background-image: url("https://cdn.discordapp.com/attachments/791297524707098624/837864318057185311/unknown.png");
   
   /* Add the blur effect */
   filter: blur(8px);
   -webkit-filter: blur(8px);
   
   /* Full height */
-  height: 70%; 
+  height: 50%; 
   top: 50%;
   left: 50%;
   

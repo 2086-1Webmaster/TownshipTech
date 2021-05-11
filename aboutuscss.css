@@ -63,7 +63,9 @@ a.bruh:hover {
 .bg-image {
   visibility: visible;
 }
-
+.paddingm {
+  padding-bottom:250px;
+}
 
 }
 
@@ -73,6 +75,9 @@ a.bruh:hover {
     font-size: 10px;
     margin-top: -60px;
     margin-left:27px
+  }
+  .paddingm {
+    padding-bottom:250px;
   }
 .navheader {
   font-size:35px;
@@ -121,10 +126,7 @@ display: none;
 .bruh {
   font-size:10px
 }
-.bg-image {
-  visibility: hidden;
-  display: none;
-}
+
 
 
 
@@ -199,7 +201,7 @@ div.testdiv {
   left: 50%;
   
   /* Center and scale the image nicely */
-  background-position: center;
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -229,4 +231,6 @@ div.testdiv {
 .nav-link {
   font-family: Neoteric;
 }
+
+
 
