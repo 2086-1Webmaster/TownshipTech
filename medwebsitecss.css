@@ -50,7 +50,7 @@
   
   
   .covidwarning {
-    font-size:50px;
+    font-size:30px;
   }
   
   .bruh {
@@ -194,9 +194,12 @@
     font-family: Neoteric;
   }
   
+.mainbtn {
+  background-color: #ff7a7a
+}
 
 .mainbtn:hover {
-  color: gray;
+  background-color: #c25d5d;
   transition: 0.2s;
 }
 
