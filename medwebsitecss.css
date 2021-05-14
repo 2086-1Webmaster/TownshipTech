@@ -17,10 +17,16 @@
     .navmedia {
       font-size:50px;
     }
+    .mainpadding {
+      padding-bottom: 200px;
+    }
   
     .maincap1 {
     font-size: 25px;
     text-align: center;
+  }
+  .mainheader {
+    font-size: 3.5vw
   }
   
   .imgleft {
@@ -85,12 +91,18 @@
   .navheader {
     font-size:35px
   }
+  .mainpadding {
+    padding-bottom: 240px;
+  }
   
   .imggal {
     font-size: 4vw;
   }
   .navmedia {
     font-size:15px;
+  }
+  .mainheader {
+    font-size: 5vw
   }
   
   .maincap1 {
