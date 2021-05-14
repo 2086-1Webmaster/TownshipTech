@@ -240,6 +240,86 @@ div.testdiv {
   font-family: Neoteric;
 }
 
+#Actual {
+    background: #ffebeb;
+    color: White;
+    padding: 20px;
+}
+#Actual2 {
+    background: silver;
+    color: White;
+    padding: 20px;
+}
+#Actual3 {
+    background: silver;
+    color: White;
+    padding: 20px;
+}
+#Actual4 {
+    background: silver;
+    color: White;
+    padding: 20px;
+}
+#Actual5 {
+    background: silver;
+    color: White;
+    padding: 20px;
+}
+.slideup, .slidedown {
+    max-height: 0;            
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.3s ease-in-out;
+    -moz-transition: max-height 0.3s ease-in-out;
+    -o-transition: max-height 0.3s ease-in-out;
+    transition: max-height 0.3s ease-in-out;
+}
+.slideup2, .slidedown2 {
+    max-height: 0;            
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.3s ease-in-out;
+    -moz-transition: max-height 0.3s ease-in-out;
+    -o-transition: max-height 0.3s ease-in-out;
+    transition: max-height 0.3s ease-in-out;
+}
+.slideup3, .slidedown3 {
+    max-height: 0;            
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.3s ease-in-out;
+    -moz-transition: max-height 0.3s ease-in-out;
+    -o-transition: max-height 0.3s ease-in-out;
+    transition: max-height 0.3s ease-in-out;
+}
+.slideup4, .slidedown4 {
+    max-height: 0;            
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.3s ease-in-out;
+    -moz-transition: max-height 0.3s ease-in-out;
+    -o-transition: max-height 0.3s ease-in-out;
+    transition: max-height 0.3s ease-in-out;
+}
+.slideup5, .slidedown5 {
+    max-height: 0;            
+    overflow-y: hidden;
+    -webkit-transition: max-height 0.3s ease-in-out;
+    -moz-transition: max-height 0.3s ease-in-out;
+    -o-transition: max-height 0.3s ease-in-out;
+    transition: max-height 0.3s ease-in-out;
+}
 
+.slidedown {            
+    max-height: 100000px ;
+}
+.slidedown2 {            
+    max-height: 60px ;
+}
+.slidedown3 {            
+    max-height: 60px ;
+}
+.slidedown4 {            
+    max-height: 60px ;
+}
+.slidedown5 {            
+    max-height: 60px ;
+}
 
 
